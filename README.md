@@ -6,7 +6,7 @@ Saturn Bot Developer and Mobile Software Student
 
 Hello, I'm Emirhan KAYA. I am developing the Saturn bot on Discord and I manage the official server of the bot, the Saturn Bot Support and Chat server. Apart from that, I am taking mobile software development training for Android and IOS.
 
-* 🌍  I'm based in Kocaeli
+* 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [My Portfolio](http://ppf.one/Danteon)
 * 🚀  I'm currently working on [Saturn Bot](https://top.gg/bot/721150565136072744)
 * 🧠  I'm learning Mobile Software
