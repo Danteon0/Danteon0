@@ -45,4 +45,4 @@ Hello, I'm Emirhan KAYA. I am developing the Saturn bot on Discord and I manage 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/EmirhanKaya41"><img src="https://github-readme-stats.vercel.app/api?username=EmirhanKaya41&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EmirhanKaya41's GitHub stats" /></a>
+<a href="http://www.github.com/Danteon0"><img src="https://github-readme-stats.vercel.app/api?username=Danteon0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Danteon0's GitHub stats" /></a>
