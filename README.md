@@ -45,4 +45,4 @@ Hello, I'm Emirhan KAYA. I am developing the Saturn bot on Discord and I manage 
 
 <b>My GitHub Stats</b>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Danteon0&theme=android-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Danteon0&theme=android-dark&hide_border=true)](https://github.com/Danteon0)
