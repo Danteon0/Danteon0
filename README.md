@@ -41,6 +41,7 @@ Hello, I'm Emirhan KAYA. I am developing the Saturn bot on Discord and I manage 
 
 <p align="left"> <a href="https://discord.gg/Se23p7VFuU" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Danteon0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://top.gg/user/7981399230188814336" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17378516/danteon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/EmirhanKaya_41" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/496393095282294796)](https://discord.com/users/496393095282294796)
 ### Badges
 
 <b>My GitHub Stats</b>
