@@ -17,7 +17,7 @@ Hello, I'm Emirhan KAYA. I am developing the Saturn bot on Discord and I manage 
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,discordjs,flutter,html,css,dart,py,npm,bots,vscode,visualstudio,androidstudio,wordpress,git,xd,pr,ae,figma,ps,postgres,mongodb,firebase,sqlite,obsidian,linux,arch,ubuntu,debian,kali,heroku,azure,gcp,aws,cloudflare)
+![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,discordjs,py,dart,flutter,html,css,npm,pnpm,yarn,bots,vscode,visualstudio,androidstudio,vim,wordpress,unreal,git,obsidian,figma,xd,pr,ae,ps,ai,postgres,mongodb,firebase,sqlite,linux,arch,ubuntu,debian,kali,heroku,azure,gcp,aws,cloudflare)
 
 ### Socials
 
