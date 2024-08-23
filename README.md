@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+
 Hi 👋 My name is Emirhan KAYA
 =============================
 
@@ -15,11 +17,27 @@ Hello, I'm Emirhan KAYA. I am developing the Saturn bot on Discord and I manage 
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,discordjs,flutter,html,css,dart,py,npm,bots,vscode,visualstudio,androidstudio,wordpress,git,xd,pr,ae,figma,ps,postgres,mongodb,firebase,sqlite,obsidian,linux,arch,ubuntu,debian,windows,heroku,azure,gcp,aws,cloudflare)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,discordjs,flutter,html,css,dart,py,npm,bots,vscode,visualstudio,androidstudio,wordpress,git,xd,pr,ae,figma,ps,postgres,mongodb,firebase,sqlite,obsidian,linux,arch,ubuntu,debian,kali,heroku,azure,gcp,aws,cloudflare)
 
 ### Socials
 
-<p align="left"> <a href="https://discord.gg/Se23p7VFuU" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Danteon0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://top.gg/user/7981399230188814336" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17378516/danteon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/EmirhanKaya_41" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+ 
+ <a href="https://discord.gg/eWcNKXmsgw">
+    <img src="https://skillicons.dev/icons?i=discord"/>
+  </a>
+  <a href="https://dev.to/danteon">
+    <img src="https://skillicons.dev/icons?i=devto"/>
+  </a>
+  <a href="https://github.com/danteon0">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+  <a href="https://stackoverflow.com/users/17378516/danteon">
+    <img src="https://skillicons.dev/icons?i=stackoverflow"/>
+  </a>
+  <a href="https://x.com/danteon0">
+    <img src="https://skillicons.dev/icons?i=twitter"/>
+  </a>
+
 
 ### Badges
 
@@ -31,3 +49,5 @@ Hello, I'm Emirhan KAYA. I am developing the Saturn bot on Discord and I manage 
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/emirhankaya"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
