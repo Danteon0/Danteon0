@@ -24,17 +24,14 @@ Saturn Bot Developer & Mobile Software Student
 
 Feel free to reach out or explore my work through the links provided. I'm always excited to connect with fellow developers and tech enthusiasts!
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/496393095282294796)](https://discord.com/users/496393095282294796)
-
 ### Skills
 
 ![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,discordjs,py,dart,flutter,html,css,npm,pnpm,yarn,bots,vscode,visualstudio,androidstudio,vim,wordpress,unreal,git,obsidian,figma,xd,pr,ae,ps,ai,postgres,mongodb,firebase,sqlite,linux,arch,ubuntu,debian,kali,windows,heroku,azure,gcp,aws,cloudflare)
 
-### Socials
+### Social Links
 
- 
- <a href="https://discord.gg/eWcNKXmsgw">
+<div>
+<a href="https://discord.gg/eWcNKXmsgw">
     <img src="https://skillicons.dev/icons?i=discord"/>
   </a>
   <a href="https://dev.to/danteon">
@@ -48,8 +45,11 @@ Feel free to reach out or explore my work through the links provided. I'm always
   </a>
   <a href="https://x.com/danteon0">
     <img src="https://skillicons.dev/icons?i=twitter"/>
-  </a>
-
+  </a> 
+ <p></p>
+ 
+   [![Discord Presence](https://lanyard.cnrad.dev/api/496393095282294796)](https://discord.com/users/496393095282294796)
+</div>
 
 ### Badges
 
