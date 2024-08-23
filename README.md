@@ -43,8 +43,8 @@ Hello, I'm Emirhan KAYA. I am developing the Saturn bot on Discord and I manage 
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danteon0" alt="danteon0" /></a> </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Danteon0&theme=aura&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Danteon0&theme=android-dark&hide_border=true)](https://github.com/Danteon0)
 
 ### Support Me
 
