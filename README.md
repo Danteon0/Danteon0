@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-Saturn Bot Developer & Mobile Software Student
+Saturn Bot Developer, Mobile Software Student & Personel Blogger
 ----------------------------------------------
 
 👋 Hello! I'm **Emirhan KAYA**, a dedicated developer with a passion for crafting innovative and interactive experiences on Discord. I am the creator and lead developer of **Saturn Bot**, a powerful tool that elevates Discord servers with advanced features and a user-friendly interface. I also manage the official **Saturn Bot Support and Chat** server, fostering a supportive community where users can share insights, get assistance, and connect with like-minded individuals.
