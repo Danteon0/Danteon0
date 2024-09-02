@@ -26,7 +26,7 @@ Feel free to reach out or explore my work through the links provided. I'm always
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,discordjs,py,dart,flutter,html,css,npm,pnpm,yarn,bots,vscode,visualstudio,androidstudio,vim,wordpress,unreal,git,obsidian,figma,xd,pr,ae,ps,ai,postgres,mongodb,firebase,sqlite,linux,arch,ubuntu,debian,kali,windows,heroku,azure,gcp,aws,cloudflare)
+![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,discordjs,py,dart,flutter,html,css,npm,pnpm,yarn,bots,vscode,visualstudio,androidstudio,vim,wordpress,unity,git,obsidian,figma,xd,pr,ae,ps,ai,postgres,mongodb,firebase,sqlite,linux,arch,ubuntu,debian,kali,windows,heroku,azure,gcp,aws,cloudflare)
 
 ### Social Links
 
