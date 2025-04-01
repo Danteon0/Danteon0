@@ -10,10 +10,10 @@ Saturn Bot Developer, Mobile Software Student & Personel Blogger
 🎯 Here's what I'm currently focusing on:
 
 * 🌐  **Location:** Turkey
-* 💼  **Portfolio:** Discover my projects and professional journey at [My Portfolio](http://adfoc.us/868144107429091)
-* 🚀  **Current Project:** Actively developing and enhancing [Saturn Bot](http://adfoc.us/8681441)
+* 💼  **Portfolio:** Discover my projects and professional journey at [My Portfolio](http://ppf.one/Danteon)
+* 🚀  **Current Project:** Actively developing and enhancing [Saturn Bot]([http://adfoc.us/8681441](https://top.gg/bot/721150565136072744))
 * 🎓  **Learning:** Advancing my skills in Mobile Software Development
-* 📢  **Community:** Managing and engaging with users on the [Saturn Bot Support and Chat Server](http://adfoc.us/868144107429074)
+* 📢  **Community:** Managing and engaging with users on the [Saturn Bot Support and Chat Server](https://discord.com/invite/eWcNKXmsgw)
 * 📝  **Blog:** Sharing my insights and experiences on my [Personal Blog](https://emirhankaya.net)
 * 📈  **Goal:** Constantly improving and expanding my knowledge base, aiming to stay at the forefront of technology trends
 
@@ -31,19 +31,19 @@ Feel free to reach out or explore my work through the links provided. I'm always
 ### Social Links
 
 <div>
-<a href="http://adfoc.us/868144107429074">
+<a href="https://discord.com/invite/eWcNKXmsgw">
     <img src="https://skillicons.dev/icons?i=discord"/>
   </a>
-  <a href="http://adfoc.us/868144107429092">
+  <a href="https://dev.to/danteon">
     <img src="https://skillicons.dev/icons?i=devto"/>
   </a>
-  <a href="http://adfoc.us/868144107429093">
+  <a href="https://github.com/danteon0">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
-  <a href="http://adfoc.us/868144107429094">
+  <a href="https://stackoverflow.com/users/17378516/danteon">
     <img src="https://skillicons.dev/icons?i=stackoverflow"/>
   </a>
-  <a href="http://adfoc.us/868144107429095">
+  <a href="https://x.com/danteon0">
     <img src="https://skillicons.dev/icons?i=twitter"/>
   </a> 
  <p></p>
@@ -60,6 +60,6 @@ Feel free to reach out or explore my work through the links provided. I'm always
 
 ### Support Me
 
-<a href="http://adfoc.us/868144107429096"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+<a href="https://www.buymeacoffee.com/emirhankaya"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
