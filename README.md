@@ -11,7 +11,7 @@ Saturn Bot Developer, Mobile Software Student & Personel Blogger
 
 * 🌐  **Location:** Turkey
 * 💼  **Portfolio:** Discover my projects and professional journey at [My Portfolio](http://ppf.one/Danteon)
-* 🚀  **Current Project:** Actively developing and enhancing [Saturn Bot]([http://adfoc.us/8681441](https://top.gg/bot/721150565136072744))
+* 🚀  **Current Project:** Actively developing and enhancing [Saturn Bot](https://top.gg/bot/721150565136072744)
 * 🎓  **Learning:** Advancing my skills in Mobile Software Development
 * 📢  **Community:** Managing and engaging with users on the [Saturn Bot Support and Chat Server](https://discord.com/invite/eWcNKXmsgw)
 * 📝  **Blog:** Sharing my insights and experiences on my [Personal Blog](https://emirhankaya.net)
